@@ -95,7 +95,7 @@ Además, es el encargado de validar resultados y asignar premios conforme a las 
 ## 2. Elaboración del diagrama de casos de uso
 
 Diagrama para el apartado 1
-![Diagrama de casos de uso UML](CasosDeUso.png)
+![Diagrama de casos de uso UML](Diagrams/teamRegister-useCase.png)
 
 ---
 
@@ -117,7 +117,7 @@ Cada invitación está asociada de forma exclusiva a un único equipo.
 
 ## 4. Creación del diagrama de clases UML
 
-![Diagrama de clases UML](Clases.png)
+![Diagrama de clases UML](Diagrams/clases.png)
 
 
 ---
